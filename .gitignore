@@ -1,0 +1,16 @@
+node_modules
+.DS_Store
+.env
+.env.*
+!.env.example
+
+.svelte-kit
+build
+dist
+
+*.log
+npm-debug.log*
+
+.vscode/*
+!.vscode/extensions.json
+.idea
